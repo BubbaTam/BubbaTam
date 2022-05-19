@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Startup that I co-founded for the recruitment industry called [On3Works](https://www.on3works.com/)
+- 🌱 I’m mainly learning Data Science and software 
+
 <!--
 **BubbaTam/BubbaTam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
