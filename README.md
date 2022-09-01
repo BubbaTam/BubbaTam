@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on:
   - a Startup that I co-founded called [On3Works](https://www.on3works.com/) for the recruitment industry
-  - Project called Time Tracker
+  - A personal project on [productivity](https://github.com/BubbaTam/productivity_project) 
 - 🌱 I’m mainly learning Data Science and software engineering 
 
 <!--
