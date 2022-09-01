@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Startup that I co-founded called [On3Works](https://www.on3works.com/) for the recruitment industry  
+- 🔭 I’m currently working on:
+  - a Startup that I co-founded called [On3Works](https://www.on3works.com/) for the recruitment industry
+  - Project called Time Tracker
 - 🌱 I’m mainly learning Data Science and software engineering 
 
 <!--
